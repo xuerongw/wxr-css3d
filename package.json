@@ -1,0 +1,24 @@
+{
+  "name": "wxr-sourc",
+  "version": "1.0.0",
+  "description": "sutdent  work",
+  "main": "index.js",
+  "dependencies": {
+    "koa": "^2.13.1",
+    "koa-static": "^5.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wxr-soure/wxr-sourc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wxr-soure/wxr-sourc/issues"
+  },
+  "homepage": "https://github.com/wxr-soure/wxr-sourc#readme"
+}
